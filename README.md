@@ -9,7 +9,6 @@
 - [How to Use](#how-to-use)
 - [Dashboard](#dashboard)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 The Smart Mining Helmet is an IoT-based safety device designed to enhance the safety of miners working in hazardous environments. It is equipped with various sensors to monitor environmental conditions and alert miners and supervisors of potential dangers.
